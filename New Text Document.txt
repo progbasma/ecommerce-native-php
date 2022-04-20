@@ -3,6 +3,7 @@ about
 contact
 shop
 single product
+product categories
 cart
 checkout
 user account
